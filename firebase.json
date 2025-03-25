@@ -4,7 +4,7 @@
     "indexes": "firestore.indexes.json"
   },
   "hosting": {
-    "public": "dist/angularfire-tutorial",
+    "public": "dist/angularfire-tutorial/browser",
     "ignore": [
       "firebase.json",
       "**/.*",
